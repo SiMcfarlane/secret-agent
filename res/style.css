@@ -59,3 +59,24 @@ img {
     font-size: 16px;
     margin-bottom: 20px;
 }
+/* END OF HERO SECTION */
+nav {
+    width: 100%;
+    background: firebrick;
+    height: 50px;
+}
+nav ul {
+    margin: 0 10%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+    
+    
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
